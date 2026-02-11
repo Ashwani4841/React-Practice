@@ -6,3 +6,4 @@ Component-Based: Build encapsulated components that manage their own state, then
 
 Learn Once, Write Anywhere: We don't make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code. React can also render on the server using Node and power mobile apps using React Native.
 Learn how to use React in your project.
+Email: ashwanigiri7236@gmail.com
