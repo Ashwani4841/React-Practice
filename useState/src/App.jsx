@@ -14,6 +14,7 @@ function App() {
       <button onClick={()=>setCount(count-count)}>Clear</button>
 
       <input onChange={()=>setData(e.event.value)}></input>
+      <h2>Value is : {data}</h2>
     </>
   )
 }
