@@ -16,6 +16,7 @@ function App() {
       <input onChange={()=>(setData(e.event.value))}></input>
       <h2>Value is : {data}</h2>
       <h1>New data</h1>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum, repellendus.</p>
     </>
   )
 }
