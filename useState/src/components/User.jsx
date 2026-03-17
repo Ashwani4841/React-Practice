@@ -1,11 +1,11 @@
 import React from 'react'
 
-function User(props) {
+function User({Price, Model, Location}) {
   return (
     <div>
-      <h3>Price :{props.Price}</h3>
-      <h3>Models :{props.Model}</h3>
-      <h3>Location :{props.Location}</h3>
+      <h3>Price :{Price}</h3>
+      <h3>Models :{Model}</h3>
+      <h3>Location :{Location}</h3>
     </div>
   )
 }
