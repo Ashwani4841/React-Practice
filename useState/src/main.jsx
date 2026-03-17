@@ -8,5 +8,6 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
     <User Price="9999" Model="Vivo" Location="Noida"/>
+    <User Price="8999" Model="Samsung" Location="Chennai"/>
   </StrictMode>,
 )
