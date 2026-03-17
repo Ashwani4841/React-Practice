@@ -6,6 +6,7 @@ function User({Price, Model, Location}) {
       <h3>Price :{Price}</h3>
       <h3>Models :{Model}</h3>
       <h3>Location :{Location}</h3>
+      <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, deserunt!</h2>
     </div>
   )
 }
